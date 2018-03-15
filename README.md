@@ -2,8 +2,11 @@
 Attempt at BTC price forecasting via Twitter sentiment analysis
 
 __dependencies:__
+
 VADER sentiment analysis library
+
 Tweepy (if I remember correctly)
+
 Numpy (for sentiment statistics)
 
 This was built during Summer 2017 with an exploratory data analysis mindset.
